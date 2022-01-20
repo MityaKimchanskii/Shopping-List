@@ -13,7 +13,7 @@ The following **required** functionality is complete:
 * [+] Alert Controller
 * [+] Delegate
 * [+] Protocol
-* [+] Extencsion
+* [+] Extension
 * [+] UITableViewCell
 * [+] UITableView
 * [+] UIStoryboardSegue
